@@ -16,7 +16,7 @@ pero pense que les podria venir bien para todos ustedes los que no sirven son: p
 
 ➤ npm install simple-youtube-api
 
-**REQUICITOS:**
+**REQUISITOS:**
 
 ➤ Tener instalado FFmpeg https://es.wikihow.com/instalar-FFmpeg-en-Windows
 
