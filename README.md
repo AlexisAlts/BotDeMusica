@@ -7,9 +7,9 @@ pero pense que les podria venir bien para todos ustedes los que no sirven son: p
 **INSTALACIONES:**
 
 ➤ npm install --save discord-player
-\n➤ npm install --save @discordjs/opus
-\n➤ npm install buscador-letra
-\n➤ npm install ytdl-core
+➤ npm install --save @discordjs/opus
+➤ npm install buscador-letra
+➤ npm install ytdl-core
 ➤ npm install simple-youtube-api
 
 **REQUICITOS:**
